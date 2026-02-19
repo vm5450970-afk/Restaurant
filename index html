@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Nós</title>
+    <link rel="stylesheet" href="nos.css">
+</head>
+<body>
+   
+
+    <h1><strong>Sobre Nós</strong></h1>
+    <hr>
+    <main>
+         <section>
+    <p> <ins><strong>Mil Delicias</strong></ins>  nasceu do desejo de oferecer uma experiência gastronômica acolhedora, com o  <strong>verdadeiro sarbor</strong> da comida caseira feita com carinho. 
+    </p>Desde 2010, preparamos cada refeição com <strong>ingredientes frescos</strong> , selecionados com cuidado, e temperos que remetem às boas lembranças de um almoço em família. 
+    Nosso ambiente é pensado para acolher nossos clientes com conforto, simplicidade e o calor humano que transforma uma refeição em um momento especial.
+
+</p> 
+    <p>Nosso objetivo é oferecer produtos e serviços que facilitem o seu dia dia, com qualidade e comprimsso.
+         Nossa missão é levar à mesa dos nossos clientes o prazer de 
+    saborear uma comida autêntica, preparada com dedicação e amor.Trabalhamos para resgatar o verdadeiro gosto da culinária tradicional brasileira, preservando receitas, valorizando 
+    produtores locais e promovendo a sustentabilidade em cada etapa do nosso trabalho.
+    </p>
+
+<p>
+   Somos  reconhecidos como um dos<strong>melhores restaurantes de comida caseira da região</strong> , destacando-nos pela qualidade dos pratos, pelo atendimento acolhedor e pela</p>
+   <p> experiência única que proporcionamos a cada visita.Buscamos crescer de forma sustentável, mantendo a essência familiar que nos tornou especiais e inspirando novas gerações a valorizarem o sabor da tradição.</p>
+
+<p>
+    Nossa empresa <strong>visa a qualidade</strong> dos produtos e a <strong>saúde</strong> dos nossos clientes, sem abrir mão do sabor e originalidade.
+    Nossos produtos naturais como açaí,canela,kaki entre outros são nativos do Brasil,
+     sem conservantes ou substâncias artificiais.Os pratos são preparados com ingredientes fescos e selecionados por nossos chefs especializados.</p>
+     <p>As massas são feitas artezanalmente,valorizando receitas tradicionais
+     de Rondônia,preparados com muito carinho e dedicação, sendo fieis ao sabor original.
+
+    <strong>O restaurante Mil delícias oferece não apenas pratos, mas um passeio pela nossa cultura a cada mordida,proporcionando uma esperiência única!</p>
+    <p>escolha algo em nosso cardápio e venhar viajar pela nossa cultura!, para mais informações acesse:<ins>www.MilDelícias.com.br</ins></strong>
+</p>
+</section>
+<section>
+<h2> contato</h2>
+<p>
+     Estamos abertos de segunda a sábado, das 11h às 22h, com almoço, jantar e deliciosas sobremesas caseiras. </p>
+    <p>Faça sua reserva ou entre em contato para encomendas e eventos especiais. </p>
+   <p> Nossa equipe está sempre pronta para atender você com simpatia e sabor!</p>
+    </section>
+    <hr>
+   <div class="final">
+
+    <div class="letra">
+         <img src="MilD.png"></div>
+         <div class="img2"> <img src="sobreTick.png" ></div>
+         
+
+     <div class="contato">
+        
+    <p>
+    <strong>Telefone:<ins>(11) 99876-5432</ins></strong> </p>
+    <p><strong>E-mail:<ins>contato@mildelicias.com</ins></strong></p>
+    <p><strong>Endereço:<ins>Jardim Santo Antônio (São Paulo/SP)</ins></strong></p>
+
+</div>
+</div>
+ </main>    
+<footer>
+    
+    © 2025 Todos direitos reservados. 
+    <div class="feito">Feito com ❤️  pela Míl Delícias</div>
+</footer>
+   
+   
+</body>
+</html>
